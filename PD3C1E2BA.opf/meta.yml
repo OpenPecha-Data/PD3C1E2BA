@@ -1,0 +1,58 @@
+id: PD3C1E2BA
+initial_creation_type: input
+source_metadata:
+  title: Khenpo Shenpen Nangwa Series
+  language: pt
+  description: 'Texts by and about the great scholar Khenpo Shenpen Nangwa (gzhan
+    phan snang ba, 1871–1927) better known as Khenpo Shenga (mkhan po gzhan dga''):'
+  volume:
+    e9cf594b95cb42ec8dbfdceb3c0971b2:
+      title: Advice on Yidam Practice
+      parent: Advice
+    068ba19f63584de3bad82789ab785a96:
+      title: Concise Middle Way Aspiration
+      parent: Aspiration Prayers
+    4a7b1703607c46449b1134ee9e777653:
+      title: Middle Way Aspiration
+      parent: Aspiration Prayers
+    ee079dec90164ae79717ff23f29bea25:
+      title: 'Light on the Path of Liberation: The Life of the Second Buddha Vasubandhu'
+      parent: Biography
+    5f26500186e04152a571467a549df7ce:
+      title: On the Yogācāra Treatises and Buddha Nature
+      parent: Buddhist Philosophy
+    945ec027140a44eeade9fcbba4784617:
+      title: Prologue to Abhisamayālaṃkāra Commentary
+      parent: Commentaries
+    1ef3c0df6bb74e578121a96e3ec5cf99:
+      title: Prologue to Introduction to the Middle Way (Madhyamakāvatāra)
+      parent: Commentaries
+    f2172cdcda5f4c8f89d3d5ab46a19121:
+      title: The Three Noble Principles
+      parent: Commentaries
+    533cad07a1bd442faefd7106ce165c26:
+      title: In This Pure Awareness
+      parent: Dzogchen
+    2707ab278d3e421cbfa025390531610b:
+      title: Types of Spiritual Song
+      parent: Miscellaneous
+    c99c28693d124e779e6d2c2c898b5133:
+      title: Notes from Miscellaneous Writings
+      parent: Notes
+    dbc4aad869c04fa19f06b693b498b3a9:
+      title: In Praise of Longchenpa – The Greatness of the Omniscient Longchen Rabjam
+      parent: Praise
+    2c15c9009eb54e11825646e6e0b60eb1:
+      title: Praise of Candrakīrti
+      parent: Praise
+    027720be5b4a4a2f93402f50784c533b:
+      title: Prayer to Invoke the Wisdom Mind of the Gentle Protector Sakya Paṇḍita
+      parent: Prayers
+    4f2fe6f0623149f688e202e20799ce50:
+      title: A Song of Prayer to Jamyang Loter Wangpo
+      parent: Songs
+    d1f4e9e9dbc648d5a4a9ab225d934b9c:
+      title: 'Divine Music: Words of Encouragement for the Authentic Path'
+      parent: Songs
+created_at: '2022-03-01T00:28:36.706169'
+last_modified_at: '2022-03-01T00:28:36.706171'
